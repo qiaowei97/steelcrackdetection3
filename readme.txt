@@ -1,4 +1,5 @@
-代码和模型地址：https://github.com/fangqiaohu/IPC_SHM_P1
+代码地址：https://github.com/qiaowei97/steelcrackdetection3
+模型地址：链接：https://pan.baidu.com/s/13YvQgQLJypf-WQcFiDZ9Eg  提取码：1234
 系统：Windows/Ubuntu
 硬件要求：NVIDIA显卡，显存 >= 4G
 环境：CUDA 9.0，Pytorch 1.5.0，Numpy，prefetch_generator
